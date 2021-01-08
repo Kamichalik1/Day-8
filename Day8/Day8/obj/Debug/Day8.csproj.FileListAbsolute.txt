@@ -1,0 +1,7 @@
+E:\Advent Code\Day 8\Day8\Day8\bin\Debug\Day8.exe.config
+E:\Advent Code\Day 8\Day8\Day8\bin\Debug\Day8.exe
+E:\Advent Code\Day 8\Day8\Day8\bin\Debug\Day8.pdb
+E:\Advent Code\Day 8\Day8\Day8\obj\Debug\Day8.csprojAssemblyReference.cache
+E:\Advent Code\Day 8\Day8\Day8\obj\Debug\Day8.csproj.CoreCompileInputs.cache
+E:\Advent Code\Day 8\Day8\Day8\obj\Debug\Day8.exe
+E:\Advent Code\Day 8\Day8\Day8\obj\Debug\Day8.pdb
