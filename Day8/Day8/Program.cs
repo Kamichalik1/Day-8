@@ -68,15 +68,6 @@ namespace Day8
 
             */
 
-
-            //Gen lines
-            //Copy lines
-            //edit one line
-            //check if terminates
-            //if yes finish
-            //if not recopy lines and edit next line
-            //repeat
-
             bool CodeTerminates = false;
             int LastEditedIndex = -1;
             while (CodeTerminates == false)
